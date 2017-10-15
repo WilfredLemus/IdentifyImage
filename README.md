@@ -1,7 +1,7 @@
 # IdentifyImage
 Es un chatbot de Facebook Messenger, al enviarle una foto detecta el rostro y atributos como edad, sexo, sonrisa y lentes.
 
-Esto lo realiza con el ApiFace de los Servicios Congnitivos de Microsoft.
+Esto lo realiza con el ApiFace de los Servicios Cognitivos de Microsoft.
 
 > ### [CHATEAR CON EL BOT](https://m.me/IdentifyImage)
 
@@ -24,6 +24,5 @@ Esto lo realiza con el ApiFace de los Servicios Congnitivos de Microsoft.
 4. Correr servidor con ``` npm start ``` , recuerda que para Facebook Messenger tienes que estar en un protocolo seguro (https). Puedes subir el proyecto a un servidor con dicho protocolo (como [Heroku](https://heroku.com/)) o utilizar [ngrok](https://ngrok.com/) en local.
 
 
-## screenshot/Video
-
-Pendiente....
+## Video
+[![IdentifyImage](https://i.ytimg.com/vi/DbBc5W9Mjyo/hqdefault.jpg)](https://youtu.be/DbBc5W9Mjyo "IdentifyImage Video")

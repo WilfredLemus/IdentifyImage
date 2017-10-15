@@ -60,5 +60,5 @@ typings/
 
 # dotenv environment variables file
 .env
-# config.js
+config.js
 ngrok
