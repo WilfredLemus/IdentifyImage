@@ -11,7 +11,7 @@ Esto lo realiza con el ApiFace de los Servicios Congnitivos de Microsoft.
 2. Instalar las dependencias:
     - ```npm install ```
 
-3. Crear el archivo config.js y agregar [Access Token de Messenger](https://developers.facebook.com) y [ApiKey de Microsoft](https://azure.microsoft.com/en-us/services/cognitive-services/) (config.sample.js de ejemplo):
+3.Crear el archivo config.js y agregar [Access Token de Messenger](https://developers.facebook.com) y [ApiKey de Microsoft](https://azure.microsoft.com/en-us/services/cognitive-services/) (config.sample.js de ejemplo):
     - 
     ```
     messenger: {
