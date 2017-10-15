@@ -22,3 +22,8 @@ Esto lo realiza con el ApiFace de los Servicios Congnitivos de Microsoft.
     ```
 
 4. Correr servidor con ``` npm start ``` , recuerda que para Facebook Messenger tienes que estar en un protocolo seguro (https). Puedes subir el proyecto a un servidor con dicho protocolo (como [Heroku](https://heroku.com/)) o utilizar [ngrok](https://ngrok.com/) en local.
+
+
+## screenshot/Video
+
+Pendiente....
